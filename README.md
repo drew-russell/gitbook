@@ -1,3 +1,16 @@
+```
+import "github.com/rubrikinc/rubrik-sdk-for-go/rubrikcdm"
+rubrik := rubrikcdm.ConnectEnv()
+```
+
+```go
+import "github.com/rubrikinc/rubrik-sdk-for-go/rubrikcdm"
+rubrik := rubrikcdm.ConnectEnv()
+```
+
+
+
+
 GitBook
 =======
 
